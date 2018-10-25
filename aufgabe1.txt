@@ -1,0 +1,3 @@
+if(droneabouttocrash==true){
+dont();
+}
