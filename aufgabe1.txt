@@ -1,0 +1,4 @@
+if(droneabouttocrash==true){
+dont();
+fuercaro geaendert
+}
